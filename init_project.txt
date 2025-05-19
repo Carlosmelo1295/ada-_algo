@@ -1,0 +1,1 @@
+alire doc: contains all information about installation and initialize new project https://alire.ada.dev/docs/#alr-on-linux

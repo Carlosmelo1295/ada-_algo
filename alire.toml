@@ -1,0 +1,12 @@
+name = "hello_world"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Carlos Eduardo da Silva Melo"]
+maintainers = ["Carlos Eduardo da Silva Melo <carlosmelo1295@gmail.com>"]
+maintainers-logins = ["carlosmelo1295"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["hello_world"]

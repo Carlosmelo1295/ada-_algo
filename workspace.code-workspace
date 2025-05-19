@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "ada.projectFile": "hello_world.gpr",
+       
+    }
+    
+}
