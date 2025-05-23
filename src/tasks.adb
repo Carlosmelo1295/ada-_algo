@@ -10,7 +10,7 @@ package body Tasks is
 
       task body Tarefa_1 is
       begin
-         for I in 1 .. 5 loop
+         for I in 1 .. 10 loop
             Put_Line("Tarefa 1: iteracao " & Integer'Image(I));
             delay 0.5;
          end loop;
@@ -18,7 +18,7 @@ package body Tasks is
 
       task body Tarefa_2 is
       begin
-         for I in 1 .. 5 loop
+         for I in 1 .. 7 loop
             Put_Line("Tarefa 2: iteracao " & Integer'Image(I));
             delay 0.5;
          end loop;
@@ -28,3 +28,4 @@ package body Tasks is
       Put_Line("Programa principal iniciado...");
    end Concorrencia_Simples;
 end Tasks;
+

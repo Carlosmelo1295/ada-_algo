@@ -1,3 +1,4 @@
+with Func;
 with Types1;
 with Module1;
 with Calculator;
@@ -11,6 +12,7 @@ procedure Hello_World is
    Options : Character;
 
 begin
+   Func.Run;
    Types1.Run;
    Numbers.Run;
    Module1.Run;
